@@ -42,7 +42,7 @@
 * Combination (Over and Under) sampling
 ![overunder](https://github.com/dwest85/Credit_Risk_Analysis/blob/main/markdownpics/overunder.PNG)
 
-*Balanced Random Forest Classifier
+* Balanced Random Forest Classifier
 ![random_forest](https://github.com/dwest85/Credit_Risk_Analysis/blob/main/markdownpics/random_forest.PNG)
 
 * Easy Ensemble Classifier
