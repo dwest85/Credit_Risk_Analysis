@@ -31,22 +31,22 @@
 * The Classification Reports are as follows:
 
 * Naive Random Oversampling
-![naive_random]()
+![naive_random](https://github.com/dwest85/Credit_Risk_Analysis/blob/main/markdownpics/naive_random.PNG)
 
 * SMOTE Oversampling
-![SMOTE]()
+![SMOTE](https://github.com/dwest85/Credit_Risk_Analysis/blob/main/markdownpics/SMOTE.PNG)
 
 * Undersampling with ClusterCentroids
-![centroids]()
+![centroids](https://github.com/dwest85/Credit_Risk_Analysis/blob/main/markdownpics/centroids.PNG)
 
 * Combination (Over and Under) sampling
-![overunder]()
+![overunder](https://github.com/dwest85/Credit_Risk_Analysis/blob/main/markdownpics/overunder.PNG)
 
 *Balanced Random Forest Classifier
-![random_forest]()
+![random_forest](https://github.com/dwest85/Credit_Risk_Analysis/blob/main/markdownpics/random_forest.PNG)
 
 * Easy Ensemble Classifier
-![easy_ensemble]()
+![easy_ensemble](https://github.com/dwest85/Credit_Risk_Analysis/blob/main/markdownpics/easy_ensemble.PNG)
 
 # Summary
 
